@@ -1,4 +1,4 @@
-public class rpgGame {
+public class AssociationRPG {
     public static void main(String[] args){
         Wizard wizard = new Wizard("Merlin",100, 10,5);
         Warrior warrior = new Warrior("Ragnar",100,7,10);
